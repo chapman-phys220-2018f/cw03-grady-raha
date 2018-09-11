@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.com/chapman-phys220-2018f/CHANGEME.svg?branch=master)](https://travis-ci.com/chapman-phys220-2018f/CHANGEME)
-
+[![Build Status](https://travis-ci.com/chapman-phys220-2018f/cw03-grady-raha.svg?branch=master)](https://travis-ci.com/chapman-phys220-2018f/cw03-grady-raha)
 # PHYS220/MATH220/CPSC220 CW 3
 
 **Author(s):** **CHANGEME**
